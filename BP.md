@@ -6,4 +6,4 @@
 - 要求：
 视频时长 3~5 mins
 个人/小组完成均可
-- 制作指南：HBPractice · AIWriter/Writer005 Wiki （将持续增补经验）
+- 制作指南：[HBPractice · AIWriter/Writer005 Wiki （将持续增补经验）](https://github.com/AIWriter/Writer005/wiki/HBPractice)
